@@ -10,6 +10,8 @@ namespace plantplaceswebservices
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bismillah");
+            Console.Read();
         }
     }
 }
